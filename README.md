@@ -1,4 +1,10 @@
-# 🚀 Brand Content Generator using Zapier + Claude AI
+
+
+
+
+
+<img width="1672" height="941" alt="Banner github" src="https://github.com/user-attachments/assets/d79c62b4-ccf8-4f4a-bf11-6e5de970921c" />
+# 🚀 Brand Content Generator using Zapier +  AI
 
 Generate on-brand marketing copy across all channels instantly — then send it anywhere via Zapier.
 
