@@ -57,7 +57,7 @@ Generate on-brand marketing copy across all channels instantly — then send it 
 ### 1. Clone and install
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/sarahsair25/Brand-Content-Generator-using-Zapier>
 cd brand-content-generator
 
 # Install backend dependencies
